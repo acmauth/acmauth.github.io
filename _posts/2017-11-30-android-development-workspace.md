@@ -15,3 +15,5 @@ end_time: "19.00"
 * [Android For Beginners](../assets/android-development-workshop/android-for-beginners.pptx)
 
 Facebook [Event Page](https://www.facebook.com/events/115038012523801)
+
+<p><a href="../assets/android-development-workshop/poster.jpg"><img class="center" alt="android-development-workshop-poster" height="400" width="300" src="../assets/android-development-workshop/poster.jpg"/></a></p>
