@@ -16,4 +16,4 @@ end_time: "19.00"
 
 Facebook [Event Page](https://www.facebook.com/events/115038012523801)
 
-<p><a href="#"><img class="center" alt="android-development-workshop-poster" height="400" width="300" src="../assets/android-development-workshop/poster.png"/></a></p>
+<p><a href="../assets/android-development-workshop/poster.png"><img class="center" alt="android-development-workshop-poster" height="400" width="300" src="../assets/android-development-workshop/poster.png"/></a></p>
