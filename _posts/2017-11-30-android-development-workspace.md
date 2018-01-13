@@ -12,6 +12,6 @@ end_time: "19.00"
 
 ## Slides
 
-* [Android For Beginners](../assets/meet-2011-chapter/android-for-beginners.pptx)
+* [Android For Beginners](../assets/android-development-workshop/android-for-beginners.pptx)
 
 Facebook [Event Page](https://www.facebook.com/events/115038012523801)
