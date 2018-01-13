@@ -3,7 +3,7 @@ layout: post
 
 # Event information
 title: "Android Development Workshop"
-cover: "../assets/android-development-workshop/cover.png"
+cover: "../assets/android-development-workshop/facebook_banner.png"
 date: 2017/11/30
 start_time: "17.00"
 end_time: "19.00"
