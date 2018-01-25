@@ -19,9 +19,10 @@ end_time: "19.00"
 
 Προτείνεται να έχετε το laptop σας με εγκατεστημένο το Android Studio (https://goo.gl/aepj2S)
 
-## Slides
+## Υλικό
 
 * [Παρουσίαση](../assets/android-development-workshop/android-for-beginners.pptx)
+* [Android Project](../assets/android-development-workshop/Todolist.zip)
 
 Facebook [Event Page](https://www.facebook.com/events/115038012523801)
 
